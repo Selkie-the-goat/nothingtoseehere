@@ -140,7 +140,7 @@ export default function FinalSection() {
           transition={{ duration: 4, repeat: Infinity, ease: 'easeInOut' }}
           whileHover={{ scale: 1.2 }}
         >
-          �
+          😭
         </motion.span>
         <motion.span
           animate={{ rotate: [0, -10, 10, 0] }}
